@@ -1,0 +1,5 @@
+.qpkg/
+process
+process.exe
+libprocess.a
+libprocess.so
